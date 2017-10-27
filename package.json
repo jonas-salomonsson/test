@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonas-salomonsson/test.git"
+  },
+  "author": "Jonas Salomonsson <jonas.salomonsson@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonas-salomonsson/test/issues"
+  },
+  "homepage": "https://github.com/jonas-salomonsson/test#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
