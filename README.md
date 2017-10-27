@@ -19,3 +19,5 @@ A small library that adds commas  to numbers
 
 ## Contributing
     If you really want to...
+
+[![Build Status](https://travis-ci.org/jonas-salomonsson/test.svg?branch=master)](https://travis-ci.org/jonas-salomonsson/test)
