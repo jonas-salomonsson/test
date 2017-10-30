@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/jonas-salomonsson/test.svg?branch=master)](https://travis-ci.org/jonas-salomonsson/test)
+[![Coverage Status](https://coveralls.io/repos/github/jonas-salomonsson/test/badge.svg?branch=master)](https://coveralls.io/github/jonas-salomonsson/test?branch=master)
+
 Number Formatter
 =========
 
@@ -20,4 +23,3 @@ A small library that adds commas  to numbers
 ## Contributing
     If you really want to...
 
-[![Build Status](https://travis-ci.org/jonas-salomonsson/test.svg?branch=master)](https://travis-ci.org/jonas-salomonsson/test)
